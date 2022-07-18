@@ -1,7 +1,6 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 
-from multiprocessing.dummy import current_process
 import os, sys, re
 import operator
 import argparse
